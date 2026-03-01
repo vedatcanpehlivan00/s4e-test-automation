@@ -80,3 +80,7 @@ The goal of this project is to demonstrate:
 ## 👤 Author
 
 Vedat Can Pehlivan
+
+## Documentation
+- [Test Cases](docs/Test_Cases_Login.pdf)
+- [Bug Report](docs/Bug_Report_1.pdf)
