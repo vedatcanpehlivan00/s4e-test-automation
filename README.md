@@ -82,5 +82,5 @@ The goal of this project is to demonstrate:
 Vedat Can Pehlivan
 
 ## Documentation
-- [Test Cases](docs/Test_Cases_Login.pdf)
-- [Bug Report](docs/Bug_Report_1.pdf)
+- [Test Cases](https://github.com/vedatcanpehlivan00/s4e-test-automation/blob/9701134c9a35e4ff87602b6c2779d649e9a1d39d/S4E_Login_Test_Cases_Final.pdf)
+- [Bug Report](https://github.com/vedatcanpehlivan00/s4e-test-automation/blob/9701134c9a35e4ff87602b6c2779d649e9a1d39d/BUG%20REPORT%201.pdf)
